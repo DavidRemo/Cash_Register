@@ -15,14 +15,14 @@ Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for th
 Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.  
   
 ### Currency-Unit	&emsp; Amount  
-Penny &emsp;	$0.01 (PENNY)  
-Nickel &emsp;	$0.05 (NICKEL)  
-Dime &emsp;	$0.1 (DIME)  
-Quarter &emsp;	$0.25 (QUARTER)  
-Dollar &emsp;	$1 (ONE)  
-Five Dollars &emsp;	$5 (FIVE)  
-Ten Dollars &emsp;	$10 (TEN)  
-Twenty Dollars &emsp;	$20 (TWENTY)  
+Penny &emsp; &emsp;	$0.01 (PENNY)  
+Nickel &emsp; &emsp;	$0.05 (NICKEL)  
+Dime &emsp; &emsp;	$0.1 (DIME)  
+Quarter &emsp; &emsp;	$0.25 (QUARTER)  
+Dollar &emsp; &emsp;	$1 (ONE)  
+Five Dollars &emsp; &emsp;	$5 (FIVE)  
+Ten Dollars &emsp; &emsp;	$10 (TEN)  
+Twenty Dollars &emsp; &emsp;	$20 (TWENTY)  
 One-hundred Dollars &emsp;	$100 (ONE HUNDRED)  
   
 See below for an example of a cash-in-drawer array:  
